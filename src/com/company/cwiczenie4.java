@@ -11,7 +11,7 @@ public class cwiczenie4 {
         System.out.println(silniaz6);
         silniaz6 = silnia.silniaRekurencyjnie(6);
         System.out.println(silniaz6);
-        ///toodsdsada
+        ///skomitowane
     }
 
 }
