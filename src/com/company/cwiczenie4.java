@@ -16,7 +16,7 @@ public class cwiczenie4 {
         ///skomitowane
     Scanner scan = new Scanner(System.in);
         int wartosc = scan.nextInt();
-        //System.out.print("podaj liczbę dla której obliczysz silnię: ");
+        System.out.print("podaj liczbę dla której obliczysz silnię: ");
         int silniazwart = silnia.silniaIteracyjnie(wartosc);
         System.out.println("silnia dla podanej liczby to: " + silniazwart);
     }
