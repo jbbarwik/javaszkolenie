@@ -1,8 +1,6 @@
 package com.company;
 
-/**
- * Created by Student on 25.10.2016.
- */
+//tak działają silnie!!!
 public class silnia {
     public static int silniaIteracyjnie(int liczba){
         int wynik = 1;
